@@ -1,6 +1,6 @@
-# Vlad Ilchenko · AI product builder for marketplaces & commerce
+# Vlad Ilchenko · PM who ships the prototype instead of the deck
 
-Former Group PM at TikTok Shop, where I led marketplace supply chain, transaction state, disputes, and AI discovery. Now an independent marketplace advisor (Dartmouth MBA) who builds small agents and tools to test product ideas fast. Everything here is a working prototype, not a slide.
+Marketplace PM (TikTok Shop, Walmart), Tuck MBA. Everything here works. Some of it works well.
 
 [LinkedIn](https://www.linkedin.com/in/vladyslav-ilchenko/)
 
