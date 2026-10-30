@@ -11,7 +11,7 @@ Former Group PM at TikTok Shop, where I led marketplace supply chain, transactio
 | Project | What it is | Stack | Status |
 |---|---|---|---|
 | [**Preflight**](https://github.com/aIdvalor/preflight) | CI for marketing journeys. Lints a lifecycle journey for broken logic, consent and frequency issues before it reaches customers, applies fixes, then launches it to a cohort | Next.js 16 · React 19 · TypeScript · Tailwind | Live on Vercel |
-| [**Atlas**](https://github.com/aIdvalor/Atlas) | Signal Atlas: a patient-community-signal prototype that explains *why* each flag fired and drafts a visit brief (fictional data) | HTML · JS | Prototype |
+| [**Signal Atlas**](https://github.com/aIdvalor/signal-atlas) | A patient-community-signal prototype that explains *why* each flag fired and drafts a visit brief (fictional data) | HTML · JS | Prototype |
 | [**Fortune Ledger**](https://github.com/aIdvalor/Fortune_ledger) | An anti-impulse-shopping Chrome extension that adds deliberate friction before you buy | Chrome MV3 · TypeScript | Prototype |
 | [**Weekly Health Brief**](https://github.com/aIdvalor/weekly-health-brief) | Wearable exports → a daily model → a coach-style weekly brief (synthetic data) | Python · matplotlib | v1 |
 
