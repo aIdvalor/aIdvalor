@@ -13,9 +13,9 @@ Marketplace PM, Tuck MBA. Everything here works. Some of it works well.
 | [**Agent Access Index**](https://github.com/aIdvalor/agent-access-index-site) | Flagship. A public, category-level index of how top US retailers treat AI shopping agents: published agent rules, refusals and discovery files | Static site · data pipeline (private) | Live · [site](https://aidvalor.github.io/agent-access-index-site/) |
 | [**DNR Agent**](https://github.com/aIdvalor/dnr-agent) | Governed “delivered but not received” resolution agent; policy engine cuts unsafe autonomy 37% → 5% (synthetic evals) | Python · static demo | Live · [demo](https://aidvalor.github.io/dnr-agent/demo/) |
 | [**Launchgate**](https://github.com/aIdvalor/launchgate) | CI for marketing journeys. Lints a lifecycle journey for broken logic, consent and frequency issues before it reaches customers, applies fixes, then launches it to a cohort | Next.js 16 · React 19 · TypeScript · Tailwind | Live · [demo](https://launchgate-steel.vercel.app) |
-| [**VisitBrief**](https://github.com/aIdvalor/visitbrief) | A patient-community-signal prototype that explains *why* each flag fired and drafts a visit brief (fictional data) | HTML · JS | Prototype |
+| [**VisitBrief**](https://github.com/aIdvalor/visitbrief) | A patient-community-signal prototype that explains *why* each flag fired and drafts a visit brief (fictional data) | HTML · JS | Prototype · [demo](https://aidvalor.github.io/visitbrief/) |
 | [**Fortune Ledger**](https://github.com/aIdvalor/Fortune_ledger) | An anti-impulse-shopping Chrome extension that adds deliberate friction before you buy | Chrome MV3 · TypeScript | Prototype |
-| [**Weekly Health Brief**](https://github.com/aIdvalor/weekly-health-brief) | Wearable exports → a daily model → a coach-style weekly brief (synthetic data) | Python · matplotlib | v1 |
+| [**Fieldframe**](https://github.com/aIdvalor/fieldframe) | Jobsite photo prototype: AI tags, groups and captions field photos, and asks when unsure instead of guessing | HTML · JS | Prototype · [demo](https://aidvalor.github.io/fieldframe/) |
 
 ## How I work
 - **Prototype first.** A clickable build in days beats a spec in weeks.
