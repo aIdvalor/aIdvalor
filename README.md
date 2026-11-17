@@ -1,4 +1,4 @@
-# Vlad Ilchenko · PM who ships the prototype instead of the deck
+# Vlad Ilchenko · Sapiens dominabitur astris
 
 Marketplace PM, Tuck MBA. Everything here works. Some of it works well.
 
